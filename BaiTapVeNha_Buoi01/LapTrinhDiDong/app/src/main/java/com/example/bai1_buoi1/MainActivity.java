@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String chuoi = editText.getText().toString();
-                int doDai = chuoi.length();
+                int doDai = chuoi.replaceAll("\\s+","").trim().length();
                 textView.setText("Độ dài của chuỗi là: " + doDai);
             }
         });
