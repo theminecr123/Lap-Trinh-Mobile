@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317028559716",
+    "project_id": "lap-trinh-mobile",
+    "storage_bucket": "lap-trinh-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317028559716:android:8c769964efc010223f6871",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUe4yTKIqLUj1BUtcXLT9YGFWOXAC7ZRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
